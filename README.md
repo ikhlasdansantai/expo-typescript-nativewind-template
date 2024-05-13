@@ -10,8 +10,17 @@ including
 - @expo/vector-icons
 - Manrope fonts
 
+
   
 How To Running your application 🤔
+
+install dep
+```bash
+npm install
+or 
+yarn install
+```
+
 ```bash
 npm run start -c
 or 
