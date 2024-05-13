@@ -21,6 +21,7 @@ or
 yarn install
 ```
 
+Run your app on emulator or your mobile phone
 ```bash
 npm run start -c
 or 
