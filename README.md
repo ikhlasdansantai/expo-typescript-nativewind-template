@@ -37,17 +37,17 @@ Cannot find module '../assets/images/icon.png' or its corresponding type declara
 You need to declare the type for the respective file format. You can achieve this by adding the following code to `app.d.ts`
 ```ts
 declare module "*.png" {
-  const value: string;
+  const value: ImageSourcePropType;
   export default value;
 }
 
 declare module "*.jpg" {
-  const value: string;
+  const value: ImageSourcePropType;
   export default value;
 }
 
 declare module "*.jpeg" {
-  const value: string;
+  const value: ImageSourcePropType;
   export default value;
 }
 ```
