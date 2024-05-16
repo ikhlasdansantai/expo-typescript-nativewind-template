@@ -10,8 +10,6 @@ including
 - @expo/vector-icons
 - Manrope fonts
 
-
-  
 How To Running your application 🤔
 
 install dep
